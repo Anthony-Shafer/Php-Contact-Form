@@ -39,7 +39,7 @@ Note that the form fields must have the name attributes set to `name`, `email`, 
 You can customize the email subject and message body by editing the $subject and $message variables in the config.php file.
 
 ## Security
-This script includes basic form validation to prevent spam submissions. However, it is recommended to implement additional security measures, such as CAPTCHA, to prevent abuse.
+This script includes basic form validation to prevent spam submissions. However, it is recommended to implement additional security measures, such as **CAPTCHA**, to prevent abuse.
 
 ## License
 This project is licensed under the `MIT License`. See the LICENSE file for details.
