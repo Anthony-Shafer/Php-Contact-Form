@@ -36,7 +36,7 @@ To use the contact form, simply create a new HTML page and include the `contact.
 Note that the form fields must have the name attributes set to `name`, `email`, and `message`. Also, the action attribute of the form should point to the `contact.php` file.
 
 ## Customization
-You can customize the email subject and message body by editing the $subject and $message variables in the config.php file.
+You can customize the email subject and message body by editing the `$subject` and `$message` variables in the config.php file.
 
 ## Security
 This script includes basic form validation to prevent spam submissions. However, it is recommended to implement additional security measures, such as **CAPTCHA**, to prevent abuse.
