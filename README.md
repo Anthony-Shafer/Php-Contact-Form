@@ -11,7 +11,7 @@ This is a simple `PHP` script that allows you to create a contact form on your w
 
 ## Installation
 Copy the files to your web server.
-Open the config.php file and edit the $to_email variable to your email address.
+Open the `config.php` file and edit the $to_email variable to your email address.
 Optionally, you can also edit the email subject and message body.
 Upload the files to your web server.
 
